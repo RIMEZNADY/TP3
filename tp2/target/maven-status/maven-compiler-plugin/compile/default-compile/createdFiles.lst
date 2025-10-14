@@ -1,0 +1,8 @@
+com\example\metier\IMetier.class
+com\example\dao\IDao.class
+com\example\dao\DaoImpl2.class
+com\example\App.class
+com\example\metier\MetierImpl.class
+com\example\dao\DaoImpl.class
+com\example\presentation\Presentation2.class
+com\example\presentation\PresentationXML.class
